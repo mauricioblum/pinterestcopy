@@ -1,4 +1,7 @@
-@import './_reset.scss';
-@import './_variables.scss';
+@import 'reset';
+@import 'variables';
+@import 'animations';
 
-@import './_grid.scss';
+@import 'header';
+@import 'heading';
+@import 'grid';
